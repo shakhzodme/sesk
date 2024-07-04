@@ -2,7 +2,7 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>Software Engineer's Swiss Knife</span>,
+  logo: (() => <span>Software Engineer's Swiss Knife</span>) as React.FC,
   project: {
     link: 'https://github.com/shakhzodme/sesk',
   },
