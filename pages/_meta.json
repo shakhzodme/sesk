@@ -1,5 +1,11 @@
 {
-  "index": "Introduction",
+  "index": "introduction",
+  "the-art-of-googling": "the art of googling",
+  "print-oriented-debugging": "print() oriented debugging",
+  "dive-into-the-source-code": "dive into the source code",
+  "github-analysis": "github analysis",
+  "look-at-the-example": "look at the example",
+  "undo-till-you-well-done": "undo till you well done",
   "contact": {
     "title": "shakhzod's lab ↗",
     "type": "page",
